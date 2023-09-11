@@ -75,7 +75,7 @@ Since I finished this project myself, but there are many features and many thing
 <h2 id="lisensi">📝 License</h2>
 
 - Copyright © 2022 DANDY
-- Azure is an open-source web application licensed under the MIT license
+- Mysta is an open-source web application licensed under the MIT license
 
 ---
 
