@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to Mysta repository! 👋🏻</h1>
 
-![azure-preview](https://user-images.githubusercontent.com/46257169/173160395-0d99ad9c-2cb4-4a63-b0cb-4cca747187c6.png)
+![image](https://github.com/kdandy/mysta/assets/50922642/77f5c598-ee5f-449b-8a75-fd7bab2199f6)
 
 <p></p>
 
