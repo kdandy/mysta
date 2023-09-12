@@ -36,7 +36,7 @@ A free open-source website template and production ready to start your startup, 
 
 <h2 id="demo">🏠 Demo Page</h2>
 
-You can find and view the demo in https://kdandy.github.io/mysta/
+You can find and view the demo in [here](https://kdandy.github.io/mysta/)
 
 <p></p>
 
