@@ -36,7 +36,7 @@ A free open-source website template and production ready to start your startup, 
 
 <h2 id="demo">🏠 Demo Page</h2>
 
-You can find and view the demo in [here](https://kdandy.github.io/mysta/)
+You can find and view the demo in [here](https://mysta.vercel.app)
 
 <p></p>
 
@@ -74,9 +74,9 @@ Since I finished this project myself, but there are many features and many thing
 
 <h2 id="lisensi">📝 License</h2>
 
-- Copyright © 2022 DANDY
+- Copyright © 2022 DANDY FAISHAL FAHMI
 - Mysta is an open-source web application licensed under the MIT license
 
 ---
 
-**<p align="center">Made with ❤️ by DANDY</p>**
+**<p align="center">Made with ❤️ by DANDY FAISHAL FAHMI</p>**
